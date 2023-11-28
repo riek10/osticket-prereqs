@@ -19,9 +19,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - PHP Manager for IIS
 - Rewrite Module
-- Item 3
-- Item 4
-- Item 5
+- PHP 7.3.8
+- Microsoft Visual C++
+- MySQL
 
 <h2>Installation Steps</h2>
 
@@ -42,9 +42,17 @@ Pictured above i installed Rewrite Module which is used to change complex web ad
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/riek10/osticket-prereqs/assets/113129662/bc7b93c9-ea6e-49b8-beb4-8ce8b82aabac" height="80%" width="80%"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I installed MySQL Server for data warehousing in order to store and manage users in a more efficient way for OsTicket. Its a very flexible and easy to manage programming environment. In the next couple of steps i setup MySQL's root user login credentials for when the complete installation of OsTicket is complete.
 </p>
 <br />
+
+<p>
+  <img src="https://github.com/riek10/osticket-prereqs/assets/113129662/8dd3f98c-c12c-41a8-bf70-3c73b5167671" height="80%" width="80%">
+/>
+</p>
+<p>
+  In this next step i'm registering the PHP-CGI file i downloaded/extracted to the newly created PHP folder in the C: drive.Then i will proceed by downloading OsTicket which is basically just the files for the GUI(Graphical User Interface).
+</p>
