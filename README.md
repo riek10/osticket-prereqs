@@ -60,5 +60,15 @@ I installed MySQL Server for data warehousing in order to store and manage users
   <img src="https://github.com/riek10/osticket-prereqs/assets/113129662/745b38fc-1d42-48c1-b7ca-5637a4507020" height="80%" width="80%"/>
 </p>
 <p>
-  After properly downloading and cofiguring all the files i now have the OsTicket installer loaded on my web browser through the localhost as pictured above.Next ill be configuring all of the proper extentions to assure that OsTicket runs properly.
+  After properly downloading and cofiguring all the files i now have the OsTicket installer loaded on my web browser through the localhost as pictured above. Next ill be configuring all of the proper extentions and login credentials for the admin on the ticketing system to assure that OsTicket runs properly. Ill also be installing one last file which is HeidiSQL which is used to login to the root user using the credentials i created on MySQL.
+</p>
+
+<p>
+  <img src="https://github.com/riek10/osticket-prereqs/assets/113129662/96985007-1b09-4151-9d51-21108853283a" height="50%" width="50%"/>
+</p>
+<p>
+  <img src="https://github.com/riek10/osticket-prereqs/assets/113129662/650081f0-284e-4d2d-93a8-d2e600d366a1" height="50%" width="50%"/>
+</p>
+<p>
+  After logging in with the root user credentials and creating a database for OsTicket i have completed the full creation/installtion and setup of a fully functional ticketing system which are used by most companies IT Helpdesk departments to handle any enduser complaints and or hardware and software configurations. 
 </p>
